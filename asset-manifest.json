@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/vincent-gustafsson.github.io/static/js/main.8b071f34.js",
+    "main.js": "/vincent-gustafsson.github.io/static/js/main.6e88135e.js",
     "static/media/bg.svg": "/vincent-gustafsson.github.io/static/media/bg.dcc51cc9713c266aeb92f6bbceda656b.svg",
     "index.html": "/vincent-gustafsson.github.io/index.html",
-    "main.8b071f34.js.map": "/vincent-gustafsson.github.io/static/js/main.8b071f34.js.map"
+    "main.6e88135e.js.map": "/vincent-gustafsson.github.io/static/js/main.6e88135e.js.map"
   },
   "entrypoints": [
-    "static/js/main.8b071f34.js"
+    "static/js/main.6e88135e.js"
   ]
 }
